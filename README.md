@@ -91,7 +91,9 @@ Visualization: Custom color schemes, interactive slicers, drill-through capabili
 
 ## File Structure
 sports-shoes-analysis/ – Retail analytics project
+
 bikeshare-analysis/ – Operational analytics project
+
 Each folder contains the PDF export of the dashboard
 
 Note: Original .pbix files are available upon request. Dashboards are built using publicly available datasets and demonstrate end-to-end analytics workflow from data modeling through insight delivery.
